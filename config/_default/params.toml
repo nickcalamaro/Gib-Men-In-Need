@@ -8,6 +8,9 @@ disableImageOptimization = false
 disableTextInHeader = false
 giteaDefaultServer = "https://git.fsfe.org"
 forgejoDefaultServer = "https://v8.next.forgejo.org"
+mainSections = ["posts"]
+
+
 
 [header]
 layout = "basic"
@@ -21,11 +24,11 @@ showScrollToTop = true
 
 [homepage]
 layout = "background"
-showRecent = false
+showRecent = true
 showRecentItems = 5
 showMoreLink = false
 showMoreLinkDest = "/posts/"
-cardView = false
+cardView = true
 cardViewScreenWidth = false
 layoutBackgroundBlur = true
 homepageImage = "SAT-men-600x315.jpeg"
