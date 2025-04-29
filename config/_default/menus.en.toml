@@ -1,0 +1,25 @@
+[[main]]
+none = "none"
+
+[[main]]
+name = "About Us"
+pageRef = "About"
+identifier = "MU5KHCnt3y"
+weight = 9998
+
+[[main]]
+name = "Contact Us"
+pre = "envelope"
+pageRef = "Contact"
+identifier = "hhGgkRmyEn"
+weight = 9999
+
+[[main]]
+name = "Donate"
+pre = "heart"
+pageRef = "Donate"
+identifier = "cCoUFgGzjz"
+weight = 9997
+
+[[footer]]
+none = "none"

@@ -1,0 +1,25 @@
+disabled = false
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Men In Need Gibraltar"
+
+[params]
+displayName = "EN"
+isoCode = "en"
+rtl = false
+dateFormat = "2 January 2006"
+logo = "Men’s Support Group (2).png"
+description = "Our aim is to provide a safe haven and supportive environment for all men in need. Whether they are struggling with work, facing homelessness, struggling with addiction, mental health issues, domestic violence, or any other issues. "
+
+
+[params.author]
+name = "Men In Need Gibraltar"
+image = "img/MIN_Logo.png"
+headline = "Registered Charity #364"
+links = [
+    { facebook = "https://www.facebook.com/GibraltarMen/"},
+    {instagram = "https://www.instagram.com/GibraltarMen/" },
+    { envelope = "mailto:contact@meninneed.gi"},
+#    {whatsapp = "https://chat.whatsapp.com/DQftL9NRfEKLSUQvJDVEYR"}
+]
