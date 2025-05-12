@@ -1,7 +1,7 @@
 ---
 title: Rotary Club Donates £550 to Men In Need
 showDate: true
-date: 2025-05-12
+date: 2025-05-11
 ---
 
 
