@@ -10,6 +10,9 @@ disableImageOptimization = false
 disableTextInHeader = false
 giteaDefaultServer = "https://git.fsfe.org"
 forgejoDefaultServer = "https://v8.next.forgejo.org"
+mainSections = ["posts"]
+
+
 
 [header]
 layout = "basic"
@@ -24,9 +27,12 @@ showScrollToTop = true
 [homepage]
 layout = "background" # valid options: page, profile, hero, card, background, custom"
 showRecent = true
+layout = "background"
+showRecent = true
 showRecentItems = 5
 showMoreLink = false
 showMoreLinkDest = "/posts/"
+cardView = true
 cardView = true
 cardViewScreenWidth = false
 layoutBackgroundBlur = true
