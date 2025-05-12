@@ -1,5 +1,3 @@
-mainSections = ["docs"]
-
 colorScheme = "ocean"
 defaultAppearance = "dark"
 autoSwitchAppearance = true
