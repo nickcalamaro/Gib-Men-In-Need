@@ -1,3 +1,5 @@
+mainSections = ["docs"]
+
 colorScheme = "ocean"
 defaultAppearance = "dark"
 autoSwitchAppearance = true
@@ -20,12 +22,12 @@ showAppearanceSwitcher = true
 showScrollToTop = true
 
 [homepage]
-layout = "background"
-showRecent = false
+layout = "background" # valid options: page, profile, hero, card, background, custom"
+showRecent = true
 showRecentItems = 5
 showMoreLink = false
 showMoreLinkDest = "/posts/"
-cardView = false
+cardView = true
 cardViewScreenWidth = false
 layoutBackgroundBlur = true
 homepageImage = "SAT-men-600x315.jpeg"
