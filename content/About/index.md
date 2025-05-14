@@ -1,3 +1,9 @@
+  <style>
+    h1, h2 {
+      margin-top: 1.5rem;
+    }
+      </style>
+
 <h1>Who We Are</h1>
   <p>
     Men in Need is a Gibraltar‐based charity registered as Charity Number 364. Our mission is to offer comprehensive and empathetic support to men experiencing a range of difficulties throughout Gibraltar. These include challenges related to unemployment, homelessness, addiction, mental health, domestic violence, and other critical areas of need. We aim to ensure that every man in Gibraltar has access to the resources and guidance necessary to rebuild his life.
