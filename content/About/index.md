@@ -42,5 +42,5 @@
   </ul>
   
   <p>
-    <a href="kjwehwkejh">Our experienced team</a> is made up of professionals and individuals who have personally faced challenges themselves. Through strategic partnerships with government agencies and community organizations, we ensure that every man we support is equipped with the knowledge, resources, and compassion necessary to achieve lasting personal transformation.
+    <a href="/trustees">Our experienced team</a> is made up of professionals and individuals who have personally faced challenges themselves. Through strategic partnerships with government agencies and community organizations, we ensure that every man we support is equipped with the knowledge, resources, and compassion necessary to achieve lasting personal transformation.
   </p>

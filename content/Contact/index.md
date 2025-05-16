@@ -1,6 +1,5 @@
   <style>
     h1, h2 {
-      color: #2C3E50;
       margin-top: 1.5rem;
     }
       </style>
@@ -18,15 +17,15 @@
 
   <h2>GibSams</h2>
   <p>
-    For those in need of someone to talk to outside of our working hours, GibSams offer daily support from 5:00 PM to 11:00 PM. They are available:
+    For those in need of someone to talk to outside of our working hours, GibSams offer daily support from 6:00 PM to 11:00 PM. They are available:
   </p>
   <ul>
     <li><strong>By Phone:</strong> Call <strong>116123</strong></li>
     <li><strong>Online Chat:</strong> Visit <a href="https://gibsams.gi/" target="_blank">gibsams.gi</a></li>
+    <li><strong>By WhatsApp:</strong> Message <a href="https://wa.me/35056003612  " target="_blank">56003612</a></li>
   </ul>
-
+GibSams also operate a face to face service, which is open Monday to Friday 2-5pm at 50 Linewall Road.
   <p>
-    At Men in Need Gibraltar, we are committed to ensuring you receive the help you need. Please do not hesitate to get in touch or reach out for assistance.
   </p>
 </body>
 </html>

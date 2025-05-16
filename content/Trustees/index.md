@@ -1,9 +1,9 @@
-Jayne Wink (Trustee - Chairperson)
+Jayne Wink (Chairperson, Trustee)
 
-Nick Calamaro (Trustee - Secretary)
+Nick Calamaro (Secretary, Trustee)
 
 Joseph Capurro (Treasurer)
 
-Conchi
+Concepcion Hidalgo Romero (Trustee)
 
-Carmen 
+Carmen Mclaren (Trustee)

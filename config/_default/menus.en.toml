@@ -9,6 +9,13 @@ identifier = "MU5KHCnt3y"
 weight = 2
 
 [[main]]
+name = "Trustees"
+parent = "MU5KHCnt3y"
+pageRef = "Trustees"
+identifier = "qekhgwjehg"
+weight = 2
+
+[[main]]
 name = "Contact Us"
 pre = "envelope"
 pageRef = "Contact"
