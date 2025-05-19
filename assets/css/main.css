@@ -100,6 +100,7 @@ body button {
   @apply bg-primary-100 dark:bg-primary-600;
 }
 
+
 .copy-textarea {
   @apply absolute opacity-5 -z-10;
 }
@@ -467,6 +468,7 @@ pre {
   transition: visibility 0.3s, opacity 0.3s ease-in-out ;
   z-index: 1000;
 }
+
 
 .active {
   text-decoration-line: underline;
