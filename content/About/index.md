@@ -1,8 +1,51 @@
+ ---
+---
   <style>
-    h1, h2 {
-      margin-top: 1.5rem;
+    .container {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 40px 20px;
     }
-      </style>
+   
+    .services-section {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+      gap: 20px;
+    }
+.service-card {
+  border-radius: 8px;
+  padding: 20px;
+  box-shadow: 0 2px 8px rgba(54, 54, 54, 0.1); /* default (light mode) */
+  transition: transform 0.3s ease;
+}
+
+/* When dark mode is active (assuming the <html> tag gets a "dark" class) */
+html.dark .service-card {
+  box-shadow: 0 2px 8px rgba(210, 210, 210, 0.15); /* lighter shadow for dark mode */
+}
+    .service-card:hover {
+      transform: translateY(-5px);
+    }
+    .service-card h2 {
+      margin-top: 0;
+      font-size: 1.25rem;
+      color: #0066cc;
+    }
+    .service-card ul {
+      list-style-type: disc;
+      padding-left: 20px;
+      margin: 10px 0;
+    }
+    .service-card li {
+      margin-bottom: 10px;
+    }
+    @media (max-width: 600px) {
+      .container {
+        padding: 20px;
+      }
+    }
+  </style>
+
 
 <h1>Who We Are</h1>
   <p>
@@ -13,34 +56,60 @@
     Working directly with the Ministry of Justice and collaborating closely with other key government departments—including the Ministry for Housing and the Ministry for Employment—we create a network that connects men to essential services. <i>Please note that we do not offer direct employment opportunities or access to housing</i>; rather, our role is to facilitate access to a range of support services.
   </p>
   
-  <h2>Our Core Work Encompasses:</h2>
-  <ul>
-    <li>
-      <strong>Employment and Post-Prison Rehabilitation:</strong> Provide tailored guidance for men seeking employment after incarceration, including personalized support for job applications, CV writing, and relevant training opportunities.
-    </li>
-    <li>
-      <strong>Community Service Programs:</strong> Administer community service initiatives designed for men who have been sentenced, offering structured pathways to reintegration and personal accountability.
-    </li>
-    <li>
-      <strong>Assistance with Government Applications:</strong> Guide individuals through the process of applying to government departments for housing and other essential services, ensuring clarity and support throughout the procedure.
-    </li>
-    <li>
-      <strong>Navigational Support for Government Departments:</strong> Offer expert advice and advocacy in managing interactions with various government entities to secure the services and benefits to which clients are entitled.
-    </li>
-    <li>
-      <strong>Crisis Support and Essential Needs:</strong> Provide timely assistance during crises by helping with the procurement of groceries and other necessities, addressing immediate challenges as they arise.
-    </li>
-    <li>
-      <strong>Professional Development Support:</strong> Assist with writing CVs, drafting cover letters, and identifying job opportunities and training programs to enhance career prospects.
-    </li>
-    <li>
-      <strong>Safe and Inclusive Discussion Spaces:</strong> Facilitate group sessions in a secure, nonjudgmental environment where men can openly discuss their issues and share experiences under the guidance of trained professionals.
-    </li>
-    <li>
-      <strong>Access to Mental Health Services:</strong> Ensure that men are connected with appropriate mental health services and professional support to address psychological challenges and promote overall well-being.
-    </li>
-  </ul>
+<div class="container">
+    <h1>Services We Offer</h1>
+    <div class="services-section">
+      <div class="service-card">
+        <h2>Employment and Community Service Support</h2>
+        <ul>
+          <li>Tailored guidance for men reentering employment after incarceration—including CV writing, cover letters, training opportunities, and work‑readiness essentials.</li>
+          <li>Structured community service initiatives and inclusive work opportunities (event‑based participation with modest payments).</li>
+          <li>Comprehensive reintegration support to rebuild lives and reduce reoffending.</li>
+        </ul>
+      </div>
+      <div class="service-card">
+        <h2>Government and Administrative Support</h2>
+        <ul>
+          <li>Assistance with completing applications for housing and other essential services.</li>
+          <li>Expert guidance navigating government departments to secure entitled benefits.</li>
+        </ul>
+      </div>
+      <div class="service-card">
+        <h2>Crisis and Basic Needs Support</h2>
+        <ul>
+          <li>Timely crisis response including help with procuring groceries and essential necessities.</li>
+          <li>Support with utility payments, household items, and food security.</li>
+          <li>Provision of toiletries, hygiene products, and emergency accommodation.</li>
+        </ul>
+      </div>
+      <div class="service-card">
+        <h2>Wellbeing and Mental Health Services</h2>
+        <ul>
+          <li>Connection to professional mental health services and counseling.</li>
+          <li>Wellbeing supports such as short‑term gym memberships to promote physical health.</li>
+        </ul>
+      </div>
+      <div class="service-card">
+        <h2>Social and Community Engagement Opportunities</h2>
+        <ul>
+          <li>Safe, inclusive discussion spaces for group sessions and peer support.</li>
+          <li>Community outreach initiatives like regular meetups in local cafés to foster connection.</li>
+        </ul>
+      </div>
+      <div class="service-card">
+        <h2>Additional Practical Support Services</h2>
+        <ul>
+          <li>Educational assistance through courses (e.g., English, maths, holistic therapies).</li>
+          <li>Clothing support for men and, where needed, their children.</li>
+          <li>Transport aid for interviews, appointments, or support sessions.</li>
+          <li>Childcare support for short-term needs, especially for single fathers.</li>
+          <li>Digital access via basic mobile phones or data credit.</li>
+          <li>Coverage of legal document fees for vital paperwork (IDs, birth certificates).</li>
+        </ul>
+      </div>
+    </div>
+  </div>
   
   <p>
-    <a href="kjwehwkejh">Our experienced team</a> is made up of professionals and individuals who have personally faced challenges themselves. Through strategic partnerships with government agencies and community organizations, we ensure that every man we support is equipped with the knowledge, resources, and compassion necessary to achieve lasting personal transformation.
+    <a href="/trustees">Our experienced team</a> is made up of professionals and individuals who have personally faced challenges themselves. Through strategic partnerships with government agencies and community organizations, we ensure that every man we support is equipped with the knowledge, resources, and compassion necessary to achieve lasting personal transformation.
   </p>
