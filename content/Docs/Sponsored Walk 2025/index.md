@@ -18,6 +18,26 @@ date: 2025-05-22
         .donate-button:hover {
       background-color: #0056b3;
     }
+
+    .iframe-container {
+    position: relative;
+    overflow: hidden;
+    padding-top: 56.25%;
+    height: 920px;
+}
+.iframe-container iframe {
+    position: absolute;
+    top: 0;
+    border: 0;
+    height: 100%;
+    width: 100%;
+    background-color: #ffffff;
+    border: 2px solid grey;
+    border-radius: 10px;  
+
+}
+
+
       </style>
 
 
@@ -28,7 +48,7 @@ Please join us at the Piazza <strong>This Saturday at 9am</strong> to register f
 
 <h1>Register In Advance</h1>
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdNDjvKEVEVZu5kpCPtHko-hHSrn9PrPypedqeRSjrCoKNxTQ/viewform?embedded=true" width="640" height="900" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<div class="iframe-container"><iframe border="0" loading="lazy" src="https://docs.google.com/forms/d/e/1FAIpQLSdNDjvKEVEVZu5kpCPtHko-hHSrn9PrPypedqeRSjrCoKNxTQ/viewform?embedded=true"></iframe></div>
 
 You can also donate directly to Men In Need by clicking here:
 <br>
