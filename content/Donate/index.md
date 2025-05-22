@@ -39,7 +39,7 @@ If you would rather donate via bank transfer, please use the following details:
     <col style="width: 40%;">
     <col style="width: 60%;">
   </colgroup>
-  <tr style="background-color: #f2f2f2;">
+  <tr>
     <th style="border: 1px solid #ddd; padding: 8px; text-align: left;">Bank Name</th>
     <td style="border: 1px solid #ddd; padding: 8px;">Gibraltar International Bank</td>
   </tr>
@@ -47,7 +47,7 @@ If you would rather donate via bank transfer, please use the following details:
     <th style="border: 1px solid #ddd; padding: 8px; text-align: left;">Account Name</th>
     <td style="border: 1px solid #ddd; padding: 8px;">Men In Need</td>
   </tr>
-  <tr style="background-color: #f2f2f2;">
+  <tr>
     <th style="border: 1px solid #ddd; padding: 8px; text-align: left;">Account Number</th>
     <td style="border: 1px solid #ddd; padding: 8px;">20017834</td>
   </tr>
@@ -55,7 +55,7 @@ If you would rather donate via bank transfer, please use the following details:
     <th style="border: 1px solid #ddd; padding: 8px; text-align: left;">Sort Code</th>
     <td style="border: 1px solid #ddd; padding: 8px;">60-83-14</td>
   </tr>
-  <tr style="background-color: #f2f2f2;">
+  <tr>
     <th style="border: 1px solid #ddd; padding: 8px; text-align: left;">IBAN</th>
     <td style="border: 1px solid #ddd; padding: 8px;">GI37GIBK000000020017834</td>
   </tr>
