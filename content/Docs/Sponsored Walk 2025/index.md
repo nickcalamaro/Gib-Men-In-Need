@@ -26,6 +26,10 @@ This Saturday, the Men In Need team along with our volunteers will be walking fr
 
 Please join us at the Piazza <strong>This Saturday at 9am</strong> to register for the walk. The walk is suitable for all ages and water will be provided.
 
+<h1>Register In Advance</h1>
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdNDjvKEVEVZu5kpCPtHko-hHSrn9PrPypedqeRSjrCoKNxTQ/viewform?embedded=true" width="640" height="900" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
 You can also donate directly to Men In Need by clicking here:
 <br>
 <br>
