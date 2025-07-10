@@ -10,6 +10,12 @@
     <a href="mailto:contact@meninneed.gi">contact@meninneed.gi</a>.
   </p>
 
+  <h2>Book a Meeting With Us</h2>
+<!-- Calendly inline widget begin -->
+<div class="calendly-inline-widget" data-url="https://calendly.com/contact-meninneed/30min" style="min-width:320px;height:700px;"></div>
+<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
+<!-- Calendly inline widget end -->
+
   <h2>Emergency Assistance</h2>
   <p>
     If you require emergency assistance, please call <strong>111</strong>. This service will ensure you receive prompt and appropriate support.
