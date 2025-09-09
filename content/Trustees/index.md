@@ -111,7 +111,7 @@ Our team is made up entirely of volunteers and are led by our trustees who are a
     <tr>
       <td class="image-cell" style="background-image: url('carmen.png');"></td>
       <td class="text-cell">
-        <div class="name">Carmen Mclaren Gibraltar</div>
+        <div class="name">Carmen Mclaren</div>
         <div class="role">Trustee</div>
         <div class="bio">
           <!-- Add bio if available -->
