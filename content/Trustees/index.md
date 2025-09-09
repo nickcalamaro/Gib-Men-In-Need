@@ -96,7 +96,7 @@ Our team is made up entirely of volunteers and are led by our trustees who are a
   <table>
     <tr>
       <td class="text-cell">
-        <div class="name">Concepcion Hidalgo Romero</div>
+      <div class="name">Concepcion Hidalgo Romero&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
         <div class="role">Trustee</div>
         <div class="bio">
           <!-- Add bio if available -->
