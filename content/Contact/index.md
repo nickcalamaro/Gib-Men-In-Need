@@ -24,7 +24,7 @@
     <li><strong>Online Chat:</strong> Visit <a href="https://gibsams.gi/" target="_blank">gibsams.gi</a></li>
     <li><strong>By WhatsApp:</strong> Message <a href="https://wa.me/35056003612  " target="_blank">56003612</a></li>
   </ul>
-GibSams also operate a face to face service, which is open Monday to Friday 2-5pm at 50 Linewall Road.
+GibSams also operates a face-to-face service at 50 Linewall Road, available by appointment. To book, call or text +350 5602 0927.
   <p>
   </p>
 </body>
